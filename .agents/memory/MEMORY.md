@@ -1,1 +1,0 @@
-- [Screenshot tool can't render WebGL/Three.js canvases](screenshot-webgl-limitation.md) — "Error creating WebGL context" in Screenshot tool is a sandbox GPU limitation, not an app bug.
