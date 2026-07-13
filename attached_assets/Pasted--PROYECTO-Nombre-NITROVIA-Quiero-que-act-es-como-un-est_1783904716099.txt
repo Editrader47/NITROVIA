@@ -1,0 +1,302 @@
+# PROYECTO
+
+Nombre: NITROVIA
+
+Quiero que actúes como un estudio profesional de desarrollo de videojuegos.
+
+No quiero ejemplos, tutoriales, prototipos mínimos ni código de demostración.
+
+Quiero construir el juego real.
+
+Debes tomar el rol de:
+
+- Director Técnico
+- Arquitecto de Software
+- Diseñador de Juegos
+- Programador Senior
+- Diseñador UX/UI
+- Diseñador 3D
+- Especialista en Optimización
+- QA
+
+Tú eres responsable de construir el proyecto completo.
+
+------------------------------------------------------------
+
+OBJETIVO
+
+Crear un videojuego 3D moderno de carreras urbanas llamado NITROVIA.
+
+El juego debe ser divertido, muy accesible y orientado al público casual.
+
+NO debe ser un simulador profesional.
+
+Debe sentirse rápido, espectacular y adictivo.
+
+Debe funcionar tanto en PC como en Android.
+
+Debe estar diseñado desde el inicio para poder exportarse posteriormente a iOS.
+
+------------------------------------------------------------
+
+MOTOR
+
+Utiliza el motor que consideres técnicamente más adecuado para este proyecto.
+
+Si existe una mejor alternativa que Godot para este tipo de juego dentro de Replit, justifícala y utilízala.
+
+No tomes decisiones pensando en un ejemplo académico.
+
+Toma decisiones pensando en publicar un juego comercial.
+
+------------------------------------------------------------
+
+OBJETIVO FINAL
+
+Construir el juego completo.
+
+No construir un demo.
+
+No construir un tutorial.
+
+No construir un ejemplo.
+
+El proyecto debe quedar preparado para crecer durante años.
+
+------------------------------------------------------------
+
+CARACTERÍSTICAS
+
+• Mundo urbano completamente 3D.
+
+• Ciudad grande.
+
+• Calles.
+
+• Avenidas.
+
+• Túneles.
+
+• Puentes.
+
+• Zonas residenciales.
+
+• Zona financiera.
+
+• Puerto.
+
+• Aeropuerto.
+
+• Parque.
+
+• Montaña.
+
+• Playa si el mapa lo permite.
+
+------------------------------------------------------------
+
+VEHÍCULOS
+
+Crear múltiples categorías.
+
+Compactos
+
+Muscle
+
+SUV
+
+Pickup
+
+Deportivos
+
+Superdeportivos
+
+Clásicos
+
+Eléctricos
+
+Cada uno con comportamiento diferente.
+
+------------------------------------------------------------
+
+PERSONAJES
+
+Sistema de selección.
+
+Hombres.
+
+Mujeres.
+
+Diversos estilos.
+
+Personalización futura preparada.
+
+------------------------------------------------------------
+
+JUGABILIDAD
+
+Conducción arcade moderna.
+
+Fácil de aprender.
+
+Difícil de dominar.
+
+Drift.
+
+Turbo.
+
+Nitro.
+
+Saltos.
+
+Misiones.
+
+Carreras.
+
+Exploración libre.
+
+Eventos dinámicos.
+
+------------------------------------------------------------
+
+IA
+
+Tráfico.
+
+Peatones.
+
+Conductores rivales.
+
+Policía.
+
+Eventos aleatorios.
+
+------------------------------------------------------------
+
+MUNDO
+
+Día y noche.
+
+Lluvia.
+
+Niebla.
+
+Clima dinámico.
+
+Semáforos.
+
+Tráfico inteligente.
+
+------------------------------------------------------------
+
+PROGRESIÓN
+
+Experiencia.
+
+Nivel.
+
+Dinero del juego.
+
+Desbloqueos.
+
+Nuevos vehículos.
+
+Nuevas zonas.
+
+Nuevos desafíos.
+
+------------------------------------------------------------
+
+MONETIZACIÓN
+
+Nunca Pay To Win.
+
+Todo el contenido importante debe poder conseguirse jugando.
+
+Solo permitir:
+
+VIP opcional.
+
+Donaciones.
+
+Objetos cosméticos.
+
+------------------------------------------------------------
+
+RENDIMIENTO
+
+Optimizar desde el primer día.
+
+60 FPS en PC.
+
+30-60 FPS en móviles medios.
+
+Uso eficiente de memoria.
+
+LOD.
+
+Streaming.
+
+Object Pooling.
+
+------------------------------------------------------------
+
+ARQUITECTURA
+
+Arquitectura modular.
+
+Código limpio.
+
+Alta cohesión.
+
+Bajo acoplamiento.
+
+Escalable.
+
+Documentado.
+
+Preparado para incorporar nuevas ciudades, vehículos y modos de juego sin reescribir el proyecto.
+
+------------------------------------------------------------
+
+REGLAS
+
+No generar archivos innecesarios.
+
+No crear código duplicado.
+
+No usar soluciones temporales.
+
+No dejar TODO pendientes.
+
+No simplificar porque "es un ejemplo".
+
+Si una característica necesita varias fases, impleméntala por etapas automáticamente.
+
+------------------------------------------------------------
+
+FORMA DE TRABAJO
+
+Trabaja como un desarrollador senior.
+
+Analiza.
+
+Diseña.
+
+Construye.
+
+Prueba.
+
+Corrige.
+
+Continúa.
+
+No esperes autorización para cada pequeño paso.
+
+Solo detente cuando necesites una decisión creativa del propietario del proyecto.
+
+------------------------------------------------------------
+
+OBJETIVO
+
+Al finalizar quiero tener un videojuego comercial llamado NITROVIA listo para evolucionar hasta una versión publicable en Steam, Google Play y App Store.
